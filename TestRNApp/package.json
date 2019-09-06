@@ -8,6 +8,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "metro": "^0.56.0",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-at-wrapper": "file:../react-native-at-wrapper"
