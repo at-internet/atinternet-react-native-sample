@@ -6,8 +6,8 @@ Sample project with ATInternet SDK integration for React-Native.
 2. Set up from project root:
 
 
-    cd TestRNApp && npm install && cd ios && pod install  
-3. Launch from project root:
+    cd TestRNApp && npm install && cd ios && pod install
+3. Launch from TestRNApp directory:
 
 
     react-native run-ios  
